@@ -90,3 +90,9 @@ Bernoulli classification performed better, predicted 1422 as spam and 190 as not
 
 Something to note was that an increase of test size also increased the accuracy score
 
+**Technologies Used**
+Python
+
+{MIT License. See below for more details on licensing.}
+
+Copyright (c) {2019} 
